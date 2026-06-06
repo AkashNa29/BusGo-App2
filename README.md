@@ -1,4 +1,4 @@
-# 📖 BusGo App - Full Project Description
+# 📖 BusGo App - Project Description
 
 ## 🚌 Introduction
 
