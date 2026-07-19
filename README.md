@@ -227,3 +227,4 @@ The application can be used for:
 BusGo is a modern transportation management solution that combines online booking, real-time tracking, digital payments, and smart travel management into a single platform. The project demonstrates how technology can improve traditional transport systems and provide a better travel experience for users.
 
 The application is scalable, secure, and user-friendly, making it suitable for real-world implementation in the transportation industry.
+Make By AKash Raj.
